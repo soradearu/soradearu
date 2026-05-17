@@ -1,4 +1,4 @@
-Hi ![](/src/heart.png). Sora here.
+Hi ![]<img width="32" style="mix-blend-mode: darken;" height="27" alt="image" src="/src/heart.png" /> . Sora here.
 =============================================================================================================================
 
 Aspiring Ethical Hacker & Content Writer
