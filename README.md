@@ -10,5 +10,4 @@ Aspiring Ethical Hacker & Content Writer
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=soradearu&theme=tokyonight)](https://git.io/streak-stats)
 
