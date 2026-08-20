@@ -1,7 +1,7 @@
 Hi <img width="44" style="mix-blend-mode: darken;" height="43" alt="image" src="/src/heart.png" /> . Sora here.
 =============================================================================================================================
 
-Aspiring Ethical Hacker & Content Writer
+Junior Cybersecurity Analyst | Security Operations | Cyber Threat Intelligence
 
 * <img width="27" style="mix-blend-mode: darken;" height="27" alt="image" src="/src/computer-thats-a-live.png" /> See my portfolio at [Sora Terminal](http://soradearu.github.io/SoraTerminal/)
 * <img width="27" style="mix-blend-mode: darken;" height="27" alt="image" src="/src/brain.png" />
